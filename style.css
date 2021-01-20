@@ -1,0 +1,46 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+#start, #number_of_objects, #status
+{
+    font-size: 18px;
+}
+
+.copyright_footer
+{
+    position: fixed;
+    color: gray;
+    bottom: 0px;
+    width: 100%;
+    background-color: wheat;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+}
+
+#name_input
+{
+    border-radius: 5px;
+    width: 350px;
+}
+
+#name_input:hover
+{
+    border:  3px ridge aqua;
+}
